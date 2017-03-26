@@ -1,0 +1,7 @@
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csprojResolveAssemblyReference.cache
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.pdb

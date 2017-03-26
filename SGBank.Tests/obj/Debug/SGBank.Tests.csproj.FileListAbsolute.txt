@@ -1,0 +1,14 @@
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\nunit.framework.dll
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.BLL.dll
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Data.dll
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Models.dll
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.BLL.pdb
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Data.pdb
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\SGBank.Models.pdb
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\bin\Debug\nunit.framework.xml
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.csprojResolveAssemblyReference.cache
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+C:\swgwork\patrick-fette-individual-work\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.pdb
